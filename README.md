@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution: [Add your solution URL here](https://your-solution-url.com)
-- Live Site: [Add your live site URL here](https://your-live-site-url.com)
+- Solution: [Add your solution URL her](https://your-solution-url.com)
+- Live Site: [Here](https://joseph-abdullaah.github.io/fylo-dark-theme-landing-page/)
 
 ---
 
